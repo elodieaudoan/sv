@@ -1,0 +1,18 @@
+---
+title: "Le titre de mon document"
+author: "Mon prénom et mon nom"
+date: "22/08/2020"
+output: html_document
+---
+
+<!--- G.E.
+Cette balise en grisée est une consigne. Il n'est pas utile de la supprimer. Elle ne s'affiche pas dans votre document finale. Afin de compiler votre document, cliquez sur le bouton `knit`
+
+Vous trouverez ci-dessous un rappel des thématiques que vous pouvez inclure dans ce document :
+
+- Classification
+- Mode de vie
+- Alimentation
+- Reproduction
+- ...
+--->
